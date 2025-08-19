@@ -1,0 +1,163 @@
+{
+  "featured": {
+    "id": 1,
+    "title": "Stranger Things",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "image": "https://occ-0-2085-2164.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABQADTaEp9uGWSvWpFp5_xDoVVi_eYHs9m8Ee6GQoMXuyVCTFDJsWm-qhw9BD3_of_6nkuY9k4O2612K9iPHA1kLGRnxZi6WRf1T3.webp?r=611",
+    "genre": "Sci-Fi",
+    "rating": "TV-14",
+    "year": "2016"
+  },
+  "trending": [
+    {
+      "id": 2,
+      "title": "Wednesday",
+      "image": "https://imgs.search.brave.com/KexD21MHrhxzEsJzcr9LEXXHris9p3OdDTYK6Xl0vwQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudGVlbnZvZ3Vl/LmNvbS9waG90b3Mv/NjgwN2IwMjcwMDA0/NTE1N2FlZjY3MjU1/L21hc3Rlci93XzE2/MDAsY19saW1pdC80/OTE0NTkxNDZfMTgw/NTA5NjI5Njc1MjIx/NDNfMzE4MTAyNjEx/NjA3MzQ3NTk1MF9u/LmpwZw",
+      "genre": "Thriller"
+    },
+    {
+      "id": 3,
+      "title": "Money Heist",
+      "image": "https://imgs.search.brave.com/COlKMiA1z5VXyC9Jl7ra-483ey1Sb0mqaAH0DLIC4_g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFmd05La0UrZ0wu/anBn",
+      "genre": "Crime"
+    },
+    {
+      "id": 4,
+      "title": "Dark",
+      "image": "https://imgs.search.brave.com/dymBjETG6fdH9ADPvpkN3hGksmvn8qk0nbszSrj5xUo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5zZW5zY3JpdGlx/dWUuY29tL21lZGlh/LzAwMDAyMjAwMTQy/Mi8zMDAvZGFyay5w/bmc",
+      "genre": "Thriller"
+    },
+    {
+      "id": 5,
+      "title": "Ozark",
+      "image": "https://imgs.search.brave.com/T9Opi6NA_JAEI39WQWefxpXm4a-UwEJImHgRrW_EeI8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U0LzFm/LzkyL2U0MWY5MjE3/YjIzZDNlZGE0MzZj/OTMzODRiZmIwMjUw/LmpwZw",
+      "genre": "Drama"
+    },
+    {
+      "id": 6,
+      "title": "Narcos",
+      "image": "https://imgs.search.brave.com/WKCwxTUKfXxsoBEuyFRgG4nccscpST-NkoMBp3WxXSo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q1LzE5/LzE1L2Q1MTkxNWQ5/Mjg1YjA0YjhiMGJl/ZjY5ZDRkMDI4MDk3/LmpwZw",
+      "genre": "Crime"
+    },
+    {
+      "id": 7,
+      "title": "Black Mirror",
+      "image": "https://imgs.search.brave.com/p1slxFDau8a6XwBT5z3dZi2zDOdv_PBv_R1uoigdY1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzcwL2Zl/LzA1LzcwZmUwNWE1/NzM4ZGIxZjI5ZDU2/MDk2OTdiYjcxN2U0/LmpwZw",
+      "genre": "Sci-Fi"
+    }
+  ],
+  "topPicks": [
+    {
+      "id": 8,
+      "title": "The Crown",
+      "image": "https://imgs.search.brave.com/CqwJXSYsAK47rXWeoO17SsGEcrHy08kYO5nj8RE5LLM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly8zMjM4/bGVibG9nZGVtYXJ2/ZWxsbC0xMjc4Lmt4/Y2RuLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNi8xMS90/aGUtY3Jvd24tc2Fp/c29uLTEtc2VyaWUt/bmV0ZmxpeC1wb3N0/ZXItcmVpbmUtZWxp/c2FiZXRoLUlJLmpw/Zw",
+      "genre": "Drama"
+    },
+    {
+      "id": 9,
+      "title": "Bridgerton",
+      "image": "https://imgs.search.brave.com/SL4QDTgvZl9RNwpGqVR_9IcEYJJnpGf5O3yzFhENMLM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/ZHV0dTM0NjhxdXc1/MS5qcGc_d2lkdGg9/NTQ0JmZvcm1hdD1w/anBnJmF1dG89d2Vi/cCZzPWU0ZWU5YWJl/NDVhNTdmMzJmNDQ3/YWY5YTU5NzJmNjM1/ZjViYzgxMmE",
+      "genre": "Romance"
+    },
+    {
+      "id": 10,
+      "title": "The Queen's Gambit",
+      "image": "https://imgs.search.brave.com/7HbiCKzgjakzfm9spN7_zPcbhbcLuxYil3Dh2ngZIsI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMyLnNob3d0aW1l/cy5jb20vcG9zdGVy/LzY2MHg5ODAvdGhl/LXF1ZWVucy1nYW1i/aXQtbmV0ZmxpeC0x/NDg0MDUuanBn",
+      "genre": "Drama"
+    },
+    {
+      "id": 11,
+      "title": "Squid Game",
+      "image": "https://imgs.search.brave.com/NNbDz65gsZUKia1AuiQfl6rCP1-gADi0RdJdaoO7YSM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dHJlbmRzaW50ZXJu/YXRpb25hbC5jb20v/bWVkaWEvY2F0YWxv/Zy9wcm9kdWN0L2Nh/Y2hlLzAxMGFmNmQ2/ZDQwMmUwZTc0ODRh/YmVhZjNhOGRkZWI3/L3Avby9wb3N0ZXIy/NTU4Mi5qcGc",
+      "genre": "Thriller"
+    },
+    {
+      "id": 12,
+      "title": "Lupin",
+      "image": "https://imgs.search.brave.com/amG1XC41eA08dPwGRe9YhnBzn2jjYQXtrII3O8uxyj8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzlhLzBh/L2MyLzlhMGFjMjFk/NzM1MWQxYWYzYmQ1/N2UwZmFmOTNhOTM5/LmpwZw",
+      "genre": "Mystery"
+    },
+    {
+      "id": 13,
+      "title": "Emily in Paris",
+      "image": "https://imgs.search.brave.com/n96EZLbS09czlUuMlrEj8qtdOTR8uaGwgejxg9Zdols/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQyLzQx/LzNlLzQyNDEzZTJj/MjJkNjI1MWYzZDI1/NGYwYWNmNmVjMTIy/LmpwZw",
+      "genre": "Comedy"
+    }
+  ],
+  "comedy": [
+    {
+      "id": 14,
+      "title": "The Good Place",
+      "image": "https://imgs.search.brave.com/LSzBs0yCFdYS4h4i8kjGWI1dmXEMdVr2KzJPceGGOUw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvbGVmcHU3/bWZoejMxMS5qcGc",
+      "genre": "Comedy"
+    },
+    {
+      "id": 15,
+      "title": "Brooklyn Nine-Nine",
+      "image": "https://imgs.search.brave.com/Uw2YVyZ0xuxEFL7RUQYGA6HzfwuMk5Zbp8hEiDgf4Xg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci82NDMv/OTEzL0hELXdhbGxw/YXBlci1icm9va2x5/bi05OS1zYS1hbXkt/Ym95bGUtYnJvb2ts/eW4tOTktYnJvb2ts/eW4tbmluZS1uaW5l/LWhvbHQtamFrZS1u/ZXRmbGl4LW55Yy1w/ZXJhbHRhLXNhbnRp/YWdvLXRodW1ibmFp/bC5qcGc",
+      "genre": "Comedy"
+    },
+    {
+      "id": 16,
+      "title": "Schitt's Creek",
+      "image": "https://imgs.search.brave.com/PaBRupr9ic2upwnHZjp-VgxuXPng6xfRvpQAWDrm0s0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFscktiSGFvb0wu/anBn",
+      "genre": "Comedy"
+    },
+    {
+      "id": 17,
+      "title": "The Office",
+      "image": "https://imgs.search.brave.com/57IWa5OuiAX6fTzrhrv3d1pf_zWW45akM2tehC3zwk0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBlLzE1/L2JiLzBlMTViYmI0/YTBjNjkxNGI0Yzgw/MDhiMGQzOTViYjI4/LmpwZw",
+      "genre": "Comedy"
+    },
+    {
+      "id": 18,
+      "title": "Friends",
+      "image": "https://imgs.search.brave.com/snd0fIs3NXY16sYcZGsS2HQxKd8nnZV-BhIRGF6B424/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci85Njgv/MjIwL0hELXdhbGxw/YXBlci1mcmllbmRz/LWNoYW5kbGVyLWpv/ZXktbW9uaWNhLW5l/dGZsaXgtcGhvZWJl/LXJhY2hlbC1yb3Nz/LXR2LXNob3ctd2Vi/LXNlcmllcy10aHVt/Ym5haWwuanBn",
+      "genre": "Comedy"
+    },
+    {
+      "id": 19,
+      "title": "Parks and Recreation",
+      "image": "https://imgs.search.brave.com/qUNmIoWnR-tTlF0fnt6f6Vfh4UNESmdfmcyWWaAtNH8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UxLzEy/LzY5L2UxMTI2OTRj/ZjE3MTAyODc0ZDQ0/NTExODE5ODBjNDNl/LmpwZw",
+      "genre": "Comedy"
+    }
+  ],
+  "action": [
+    {
+      "id": 20,
+      "title": "John Wick",
+      "image": "https://imgs.search.brave.com/zWqS9p9jbBwpTdAuNvLgXiQkpyenPmpzbUZgnzPm_CA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk0ySTNaRE01/WVRndE1qaGtaUzAw/TjJJNExXRTFNR1V0/TkRWaFpEQXdORFk1/TVdabFhrRXlYa0Zx/Y0djQC5qcGc",
+      "genre": "Action"
+    },
+    {
+      "id": 21,
+      "title": "Mad Max: Fury Road",
+      "image": "https://imgs.search.brave.com/bi6rmBv85WPYS5zn1dzEC8Cj3FPC6b54vFKlA4LvfcU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLm1vdmlld2Vi/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzL3NoYXJlZGlt/YWdlcy8yMDI0LzA0/L21hZC1tYXgtZnVy/eS1yb2FkLXBvc3Rl/ci5qcGVn",
+      "genre": "Action"
+    },
+    {
+      "id": 22,
+      "title": "The Matrix",
+      "image": "https://imgs.search.brave.com/SZRJo1xkXGepERKeIBeOGWDbHJrBZfgwfdZ3o7I2Td8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U3LzVl/LzQ3L2U3NWU0N2U2/MDZiN2NiZjBiOWJm/ZjkyYTgzNmY4MTUy/LmpwZw",
+      "genre": "Action"
+    },
+    {
+      "id": 23,
+      "title": "Die Hard",
+      "image": "https://imgs.search.brave.com/6ytTTZqWvPMxGFW_b1mhob3Oq6ECfVHe8CdISvHd7j0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ExLzlj/LzQ0L2ExOWM0NGU3/YzAwMTU3MTZkOTFl/NDVkMGJmNDE3MmRh/LmpwZw",
+      "genre": "Action"
+    },
+    {
+      "id": 24,
+      "title": "Mission Impossible",
+      "image": "https://imgs.search.brave.com/cQipK40575C1_AQBTLeZog94aDUPymhdrkZ9THclCNc/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5p/bXBhd2FyZHMuY29t/LzIwMjUvcG9zdGVy/cy9taXNzaW9uX2lt/cG9zc2libGVfX3Ro/ZV9maW5hbF9yZWNr/b25pbmdfdmVyMjcu/anBn",
+      "genre": "Action"
+    },
+    {
+      "id": 25,
+      "title": "Fast & Furious",
+      "image": "https://imgs.search.brave.com/1IjwE0oNvqAH3MIBNAyLnh7SWjcFo1W5kDpbM8d1JTM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMxLmNvbGxpZGVy/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzL3NoYXJlZGlt/YWdlcy8yMDI1LzA3/LzAxMTMwNDY2X3Bv/c3Rlcl93NzgwLmpw/Zw",
+      "genre": "Action"
+    }
+  ]
+}
